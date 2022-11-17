@@ -1,1 +1,1 @@
-# snake-game
+# Basic snake game created with python turtle module
